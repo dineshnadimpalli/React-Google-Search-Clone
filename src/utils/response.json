@@ -1,0 +1,494 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+      "type": "application/json",
+      "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+      "request": [
+        {
+          "title": "Google Custom Search - dinesh nadimpalli",
+          "totalResults": "25500",
+          "searchTerms": "dinesh nadimpalli",
+          "count": 10,
+          "startIndex": 1,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "off",
+          "cx": "6ab88f343d8ab13ca"
+        }
+      ],
+      "nextPage": [
+        {
+          "title": "Google Custom Search - dinesh nadimpalli",
+          "totalResults": "25500",
+          "searchTerms": "dinesh nadimpalli",
+          "count": 10,
+          "startIndex": 11,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "off",
+          "cx": "6ab88f343d8ab13ca"
+        }
+      ]
+    },
+    "context": {
+      "title": "Google"
+    },
+    "searchInformation": {
+      "searchTime": 0.44415,
+      "formattedSearchTime": "0.44",
+      "totalResults": "25500",
+      "formattedTotalResults": "25,500"
+    },
+    "items": [
+      {
+        "kind": "customsearch#result",
+        "title": "Fellow:Dinesh Nadimpalli - University Innovation Fellows",
+        "htmlTitle": "Fellow:\u003cb\u003eDinesh Nadimpalli\u003c/b\u003e - University Innovation Fellows",
+        "link": "https://universityinnovation.org/wiki/Fellow:Dinesh_Nadimpalli",
+        "displayLink": "universityinnovation.org",
+        "snippet": "https://in.linkedin.com/in/dinesh-nadimpalliDinesh Nadimpalli is a University \nInnovation Fellow(UIF) pursuing his Bachelor of Engineering in the stream of ...",
+        "htmlSnippet": "https://in.linkedin.com/in/\u003cb\u003edinesh\u003c/b\u003e-\u003cb\u003enadimpalliDinesh Nadimpalli\u003c/b\u003e is a University \u003cbr\u003e\nInnovation Fellow(UIF) pursuing his Bachelor of Engineering in the stream of&nbsp;...",
+        "cacheId": "h137MBtr8NgJ",
+        "formattedUrl": "https://universityinnovation.org/wiki/Fellow:Dinesh_Nadimpalli",
+        "htmlFormattedUrl": "https://universityinnovation.org/wiki/Fellow:\u003cb\u003eDinesh\u003c/b\u003e_\u003cb\u003eNadimpalli\u003c/b\u003e",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwaL3gTi6FAtQGVhsWH5-j-9Ej98vxUxpvuB7zvU4mBIWg1DEeX71fJHk",
+              "width": "183",
+              "height": "275"
+            }
+          ],
+          "metatags": [
+            {
+              "theme-color": "#eaecf0",
+              "viewport": "initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://universityinnovation.org/images/thumb/4/4b/DSC09773_opt.jpg/266px-DSC09773_opt.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Dinesh Nadimpalli",
+        "htmlTitle": "\u003cb\u003eDinesh Nadimpalli\u003c/b\u003e",
+        "link": "https://dineshnadimpalli.com/",
+        "displayLink": "dineshnadimpalli.com",
+        "snippet": "Dinesh Nadimpalli. A self-motivated and passionate individual who loves to code \n\u200d , build and colloborate🤝 in creating software products that creates ...",
+        "htmlSnippet": "\u003cb\u003eDinesh Nadimpalli\u003c/b\u003e. A self-motivated and passionate individual who loves to code \u003cbr\u003e\n   \u200d  , build   and colloborate🤝 in creating software products that creates&nbsp;...",
+        "cacheId": "1ouAfyfJmKIJ",
+        "formattedUrl": "https://dineshnadimpalli.com/",
+        "htmlFormattedUrl": "https://\u003cb\u003edineshnadimpalli\u003c/b\u003e.com/",
+        "pagemap": {
+          "metatags": [
+            {
+              "msapplication-tilecolor": "#da532c",
+              "og:type": "website",
+              "theme-color": "#ffffff",
+              "viewport": "width=device-width,initial-scale=1",
+              "og:title": "Dinesh Nadimapalli Portfolio",
+              "og:url": "https://ashutosh1919.github.io/",
+              "msapplication-tileimage": "/ms-icon-144x144.png",
+              "dinesh's portfolio": "Web site created using create-react-app"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "dineshnadimpalli (Dinesh Nadimpalli) · GitHub",
+        "htmlTitle": "\u003cb\u003edineshnadimpalli\u003c/b\u003e (\u003cb\u003eDinesh Nadimpalli\u003c/b\u003e) · GitHub",
+        "link": "https://github.com/dineshnadimpalli",
+        "displayLink": "github.com",
+        "snippet": "Hi, I'm Dinesh Nadimpalli \u200d . About Me🧔 . I am a self-motivated and passionate \nindividual who loves to code \u200d , build and colloborate 🤝 in ...",
+        "htmlSnippet": "Hi, I&#39;m \u003cb\u003eDinesh Nadimpalli\u003c/b\u003e \u200d  . About Me🧔  . I am a self-motivated and passionate \u003cbr\u003e\nindividual who loves to code    \u200d  , build and colloborate 🤝 in&nbsp;...",
+        "cacheId": "ZeJGbyPYA7cJ",
+        "formattedUrl": "https://github.com/dineshnadimpalli",
+        "htmlFormattedUrl": "https://github.com/\u003cb\u003edineshnadimpalli\u003c/b\u003e",
+        "pagemap": {
+          "hcard": [
+            {
+              "fn": "Dinesh Nadimpalli",
+              "photo": "https://avatars3.githubusercontent.com/u/13104926?s=400&u=d2a8dac7fd63eeab6f0c1f69a628ec240c994b37&v=4",
+              "url": "https://dineshnadimpalli.com"
+            }
+          ],
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSO97WeTpedSwVwrJz6WVI3Z05Wf_NsoGKZPPl2gCBMRjIqtuYgMBKPtIr7",
+              "width": "225",
+              "height": "225"
+            }
+          ],
+          "xfn": [
+            {}
+          ],
+          "person": [
+            {
+              "org": "Enquero Global India"
+            },
+            {
+              "image": "https://avatars3.githubusercontent.com/u/13104926?s=400&u=d2a8dac7fd63eeab6f0c1f69a628ec240c994b37&v=4",
+              "worksfor": "Enquero Global India",
+              "name": "Dinesh Nadimpalli",
+              "additionalname": "dineshnadimpalli",
+              "homelocation": "Bangalore, India",
+              "url": "https://dineshnadimpalli.com"
+            }
+          ],
+          "metatags": [
+            {
+              "apple-itunes-app": "app-id=1477376905",
+              "og:image": "https://avatars3.githubusercontent.com/u/13104926?s=400&u=d2a8dac7fd63eeab6f0c1f69a628ec240c994b37&v=4",
+              "twitter:card": "summary",
+              "theme-color": "#1e2327",
+              "og:site_name": "GitHub",
+              "octolytics-event-url": "https://collector.githubapp.com/github-external/browser_event",
+              "html-safe-nonce": "b37fd336225a1da73b9776b32a36768af47e2e8a",
+              "expected-hostname": "github.com",
+              "octolytics-app-id": "github",
+              "og:description": "Developer👨🏻\u200d💻 by Profession. Working on JavaScript. Experienced in developing Web and Mobile apps using ReactJs, React-Native, ElectronJs, NodeJs, MongoDB\r\n - dineshnadimpalli",
+              "browser-errors-url": "https://api.github.com/_private/browser/errors",
+              "dimension10": "Responsive",
+              "hostname": "github.com",
+              "twitter:site": "@github",
+              "octolytics-dimension-ga_id": "1077996115.1597708800",
+              "google-analytics": "UA-3769691-2",
+              "browser-stats-url": "https://api.github.com/_private/browser/stats",
+              "visitor-payload": "eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJENkFDOjE5RjE6OTk1REY1OkUzNTY2RDo1RjNDMzUxQiIsInZpc2l0b3JfaWQiOiI3MTg1NTE5NjUxMTgxMDQ5MTE4IiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=",
+              "enabled-features": "MARKETPLACE_PENDING_INSTALLATIONS",
+              "twitter:title": "dineshnadimpalli - Overview",
+              "og:type": "profile",
+              "profile:username": "dineshnadimpalli",
+              "og:title": "dineshnadimpalli - Overview",
+              "visitor-hmac": "9c9be7f61ef1776e3a3902a617aaccac0fb5d47e512cc436b38c3f5c665cbde4",
+              "request-id": "D6AC:19F1:995DF5:E3566D:5F3C351B",
+              "analytics-location": "/\u003cuser-name\u003e",
+              "twitter:image:src": "https://avatars3.githubusercontent.com/u/13104926?s=400&u=d2a8dac7fd63eeab6f0c1f69a628ec240c994b37&v=4",
+              "fb:app_id": "1401488693436528",
+              "viewport": "width=device-width",
+              "twitter:description": "Developer👨🏻\u200d💻 by Profession. Working on JavaScript. Experienced in developing Web and Mobile apps using ReactJs, React-Native, ElectronJs, NodeJs, MongoDB\r\n - dineshnadimpalli",
+              "dimension1": "Logged Out",
+              "octolytics-host": "collector.githubapp.com",
+              "og:url": "https://github.com/dineshnadimpalli",
+              "dimension3": "mobile"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://avatars3.githubusercontent.com/u/13104926?s=400&u=d2a8dac7fd63eeab6f0c1f69a628ec240c994b37&v=4"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Dinesh Nadimpalli | Facebook",
+        "htmlTitle": "\u003cb\u003eDinesh Nadimpalli\u003c/b\u003e | Facebook",
+        "link": "https://www.facebook.com/nadimpalli.dinesh",
+        "displayLink": "www.facebook.com",
+        "snippet": "Dinesh Nadimpalli is on Facebook. Join Facebook to connect with Dinesh \nNadimpalli and others you may know. Facebook gives people the power to share \nand.",
+        "htmlSnippet": "\u003cb\u003eDinesh Nadimpalli\u003c/b\u003e is on Facebook. Join Facebook to connect with \u003cb\u003eDinesh\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eNadimpalli\u003c/b\u003e and others you may know. Facebook gives people the power to share \u003cbr\u003e\nand.",
+        "formattedUrl": "https://www.facebook.com/nadimpalli.dinesh",
+        "htmlFormattedUrl": "https://www.facebook.com/\u003cb\u003enadimpalli\u003c/b\u003e.\u003cb\u003edinesh\u003c/b\u003e",
+        "pagemap": {
+          "xfn": [
+            {}
+          ],
+          "metatags": [
+            {
+              "al:android:url": "fb://profile/100005724903112",
+              "referrer": "default",
+              "og:image": "https://scontent-mia3-1.xx.fbcdn.net/v/t1.0-1/p200x200/77122133_1075974759270011_1474145604778065920_o.jpg?_nc_cat=104&_nc_sid=bbed71&_nc_ohc=LYD9PLt3JHEAX-AhhiH&_nc_ht=scontent-mia3-1.xx&_nc_tp=6&oh=c938ff201269d01226383f364d362674&oe=5F4CE999",
+              "al:ios:app_name": "Facebook",
+              "og:title": "Dinesh Nadimpalli",
+              "al:android:package": "com.facebook.katana",
+              "al:ios:url": "fb://profile/100005724903112",
+              "og:url": "https://www.facebook.com/nadimpalli.dinesh",
+              "og:description": "Dinesh Nadimpalli is on Facebook. Join Facebook to connect with Dinesh Nadimpalli and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+              "al:android:app_name": "Facebook",
+              "al:ios:app_store_id": "284882215"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://scontent-mia3-1.xx.fbcdn.net/v/t1.0-1/p200x200/77122133_1075974759270011_1474145604778065920_o.jpg?_nc_cat=104&_nc_sid=bbed71&_nc_ohc=LYD9PLt3JHEAX-AhhiH&_nc_ht=scontent-mia3-1.xx&_nc_tp=6&oh=c938ff201269d01226383f364d362674&oe=5F4CE999"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "User Dinesh Nadimpalli - Stack Overflow",
+        "htmlTitle": "User \u003cb\u003eDinesh Nadimpalli\u003c/b\u003e - Stack Overflow",
+        "link": "https://stackoverflow.com/users/8238968/dinesh-nadimpalli",
+        "displayLink": "stackoverflow.com",
+        "snippet": "Dinesh Nadimpalli. 1,092 ○9 ○19. Profile · Activity. Developer by profession \u200d , \nSoftware enthusiast and foodie by nature. 37 answers. 4 questions.",
+        "htmlSnippet": "\u003cb\u003eDinesh Nadimpalli\u003c/b\u003e. 1,092 ○9 ○19. Profile &middot; Activity. Developer by profession \u200d  , \u003cbr\u003e\nSoftware enthusiast and foodie by nature. 37 answers. 4 questions.",
+        "cacheId": "QCGp-GpT0-sJ",
+        "formattedUrl": "https://stackoverflow.com/users/8238968/dinesh-nadimpalli",
+        "htmlFormattedUrl": "https://stackoverflow.com/users/8238968/\u003cb\u003edinesh\u003c/b\u003e-\u003cb\u003enadimpalli\u003c/b\u003e",
+        "pagemap": {
+          "xfn": [
+            {}
+          ],
+          "metatags": [
+            {
+              "viewport": "width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Dinesh Nadimpalli - Software Engineer - Enquero | LinkedIn",
+        "htmlTitle": "\u003cb\u003eDinesh Nadimpalli\u003c/b\u003e - Software Engineer - Enquero | LinkedIn",
+        "link": "https://in.linkedin.com/in/dineshnadimpalli",
+        "displayLink": "in.linkedin.com",
+        "snippet": "View Dinesh Nadimpalli's profile on LinkedIn, the world's largest professional \ncommunity. Dinesh has 2 jobs listed on their profile. See the complete profile on ...",
+        "htmlSnippet": "View \u003cb\u003eDinesh Nadimpalli&#39;s\u003c/b\u003e profile on LinkedIn, the world&#39;s largest professional \u003cbr\u003e\ncommunity. Dinesh has 2 jobs listed on their profile. See the complete profile on&nbsp;...",
+        "formattedUrl": "https://in.linkedin.com/in/dineshnadimpalli",
+        "htmlFormattedUrl": "https://in.linkedin.com/in/\u003cb\u003edineshnadimpalli\u003c/b\u003e",
+        "pagemap": {
+          "metatags": [
+            {
+              "og:image": "https://media-exp1.licdn.com/dms/image/C5103AQFKcehLOxQfgQ/profile-displayphoto-shrink_200_200/0?e=1603324800&v=beta&t=zIX-2yhe9q3ZHoGwjN2K6tUk7qqBHKFpZblJFmiySi8",
+              "og:type": "profile",
+              "twitter:card": "summary",
+              "twitter:title": "Dinesh Nadimpalli - Software Engineer - Enquero | LinkedIn",
+              "platform-worker": "https://static-exp1.licdn.com/sc/h/f1rrg2iyfxtin8sa39nl5yphl",
+              "og:title": "Dinesh Nadimpalli - Software Engineer - Enquero | LinkedIn",
+              "pagekey": "public_profile_v3_mobile",
+              "locale": "en_US",
+              "og:description": "View Dinesh Nadimpalli’s profile on LinkedIn, the world's largest professional community. Dinesh has 2 jobs listed on their profile. See the complete profile on LinkedIn and discover Dinesh’s connections and jobs at similar companies.",
+              "platform": "https://static-exp1.licdn.com/sc/h/9jz7j4nt804mq3yk6akvsioxt,3k2x891d7w4qjw4py8x2gtx9y",
+              "twitter:image": "https://media-exp1.licdn.com/dms/image/C5103AQFKcehLOxQfgQ/profile-displayphoto-shrink_200_200/0?e=1603324800&v=beta&t=zIX-2yhe9q3ZHoGwjN2K6tUk7qqBHKFpZblJFmiySi8",
+              "profile:last_name": "Nadimpalli",
+              "twitter:site": "@Linkedin",
+              "viewport": "width=device-width, initial-scale=1.0",
+              "litmsprofilename": "public-profile-frontend",
+              "twitter:description": "View Dinesh Nadimpalli’s profile on LinkedIn, the world's largest professional community. Dinesh has 2 jobs listed on their profile. See the complete profile on LinkedIn and discover Dinesh’s connections and jobs at similar companies.",
+              "profile:first_name": "Dinesh",
+              "og:url": "https://in.linkedin.com/in/dineshnadimpalli"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://media-exp1.licdn.com/dms/image/C5103AQFKcehLOxQfgQ/profile-displayphoto-shrink_200_200/0?e=1603324800&v=beta&t=zIX-2yhe9q3ZHoGwjN2K6tUk7qqBHKFpZblJFmiySi8"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Dinesh Nadimpalli - YouTube",
+        "htmlTitle": "\u003cb\u003eDinesh Nadimpalli\u003c/b\u003e - YouTube",
+        "link": "https://www.youtube.com/channel/UCj4rDPvF_E5daaOb1I8qIgw/videos?disable_polymer=1",
+        "displayLink": "www.youtube.com",
+        "snippet": "Skip navigation. Sign in. Search. Dinesh Nadimpalli. Videos. Playlists · Channels \n· About · Home · Trending · History · Get YouTube Premium · Get YouTube TV ...",
+        "htmlSnippet": "Skip navigation. Sign in. Search. \u003cb\u003eDinesh Nadimpalli\u003c/b\u003e. Videos. Playlists &middot; Channels \u003cbr\u003e\n&middot; About &middot; Home &middot; Trending &middot; History &middot; Get YouTube Premium &middot; Get YouTube TV&nbsp;...",
+        "cacheId": "90pWXTvI51MJ",
+        "formattedUrl": "https://www.youtube.com/channel/UCj4rDPvF.../videos?disable_polymer...",
+        "htmlFormattedUrl": "https://www.youtube.com/channel/UCj4rDPvF.../videos?disable_polymer...",
+        "pagemap": {
+          "imageobject": [
+            {
+              "width": "900",
+              "url": "https://yt3.ggpht.com/a/AGF-l7_8K29RlfEfGarT-CpHmPPbRKKorcmpL_cPlw=s900-c-k-c0xffffffff-no-rj-mo",
+              "height": "900"
+            }
+          ],
+          "person": [
+            {
+              "url": "http://www.youtube.com/channel/UCj4rDPvF_E5daaOb1I8qIgw"
+            },
+            {
+              "url": "https://plus.google.com/117008941413830732087"
+            }
+          ],
+          "metatags": [
+            {
+              "og:image": "https://yt3.ggpht.com/a/AGF-l7_8K29RlfEfGarT-CpHmPPbRKKorcmpL_cPlw=s900-c-k-c0xffffffff-no-rj-mo",
+              "twitter:app:url:iphone": "vnd.youtube://www.youtube.com/channel/UCj4rDPvF_E5daaOb1I8qIgw",
+              "twitter:app:id:googleplay": "com.google.android.youtube",
+              "theme-color": "#ff0000",
+              "og:image:width": "900",
+              "twitter:card": "summary",
+              "og:site_name": "YouTube",
+              "twitter:url": "https://www.youtube.com/channel/UCj4rDPvF_E5daaOb1I8qIgw",
+              "twitter:app:url:ipad": "vnd.youtube://www.youtube.com/channel/UCj4rDPvF_E5daaOb1I8qIgw",
+              "al:android:package": "com.google.android.youtube",
+              "twitter:app:name:googleplay": "YouTube",
+              "title": "Dinesh Nadimpalli",
+              "al:ios:url": "vnd.youtube://www.youtube.com/channel/UCj4rDPvF_E5daaOb1I8qIgw",
+              "twitter:app:id:iphone": "544007664",
+              "al:ios:app_store_id": "544007664",
+              "twitter:image": "https://yt3.ggpht.com/a/AGF-l7_8K29RlfEfGarT-CpHmPPbRKKorcmpL_cPlw=s900-c-k-c0xffffffff-no-rj-mo",
+              "twitter:site": "@youtube",
+              "og:type": "profile",
+              "twitter:title": "Dinesh Nadimpalli",
+              "al:ios:app_name": "YouTube",
+              "og:title": "Dinesh Nadimpalli",
+              "og:image:height": "900",
+              "twitter:app:id:ipad": "544007664",
+              "al:web:url": "https://www.youtube.com/channel/UCj4rDPvF_E5daaOb1I8qIgw?feature=applinks",
+              "al:android:url": "https://www.youtube.com/channel/UCj4rDPvF_E5daaOb1I8qIgw?feature=applinks",
+              "fb:app_id": "87741124305",
+              "twitter:app:url:googleplay": "https://www.youtube.com/channel/UCj4rDPvF_E5daaOb1I8qIgw",
+              "twitter:app:name:ipad": "YouTube",
+              "og:url": "https://www.youtube.com/channel/UCj4rDPvF_E5daaOb1I8qIgw",
+              "al:android:app_name": "YouTube",
+              "twitter:app:name:iphone": "YouTube"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://yt3.ggpht.com/a/AGF-l7_8K29RlfEfGarT-CpHmPPbRKKorcmpL_cPlw=s900-c-k-c0xffffffff-no-rj-mo"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Dinesh Nadimpalli | Apollo",
+        "htmlTitle": "\u003cb\u003eDinesh Nadimpalli\u003c/b\u003e | Apollo",
+        "link": "https://www.apollo.io/people/Dinesh/Nadimpalli/5d4129c680f93e4d1bed77aa",
+        "displayLink": "www.apollo.io",
+        "snippet": "Mar 28, 2020 ... Dinesh Nadimpalli, Engineer at Enquero. Dinesh has experience working with \nEnquero, MyAnatomy integration pvt ltd, Institution of Electronics ...",
+        "htmlSnippet": "Mar 28, 2020 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eDinesh Nadimpalli\u003c/b\u003e, Engineer at Enquero. Dinesh has experience working with \u003cbr\u003e\nEnquero, MyAnatomy integration pvt ltd, Institution of Electronics&nbsp;...",
+        "cacheId": "Z832yAWg0AQJ",
+        "formattedUrl": "https://www.apollo.io/.../Dinesh/Nadimpalli/5d4129c680f93e4d1bed77aa",
+        "htmlFormattedUrl": "https://www.apollo.io/.../\u003cb\u003eDinesh\u003c/b\u003e/\u003cb\u003eNadimpalli\u003c/b\u003e/5d4129c680f93e4d1bed77aa",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTrfXdvprqpFdmfiLFvGA52VC6GXaD-mzhEJnSTXUJqj0--8KvwJNPlXXMi",
+              "width": "200",
+              "height": "200"
+            }
+          ],
+          "metatags": [
+            {
+              "msapplication-tilecolor": "#ffffff",
+              "og:image": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/5e59a5536e5329000138970d/picture",
+              "twitter:card": "summary",
+              "theme-color": "#ffffff",
+              "og:type": "website",
+              "og:image:alt": "Apollo Logo Alt",
+              "og:image:width": "310",
+              "og:site_name": "Apollo.io",
+              "og:title": "Dinesh Nadimpalli",
+              "og:image:height": "310",
+              "msapplication-tileimage": "/ms-icon-144x144.png",
+              "twitter:creator": "@MeetApollo",
+              "og:description": "Dinesh Nadimpalli, Engineer at Enquero. Dinesh has experience working with Enquero, MyAnatomy integration pvt ltd, Institution of Electronics and Telecommunication Engineers, University Innovation Fellows etc. Access Company Information, Colleagues, Experience and more for free.",
+              "next-head-count": "21",
+              "twitter:site": "@MeetApollo",
+              "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+              "og:url": "https://www.apollo.io/people/Dinesh/Nadimpalli/5d4129c680f93e4d1bed77aa"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/5e59a5536e5329000138970d/picture"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Dinesh Nadimpalli on CodePen",
+        "htmlTitle": "\u003cb\u003eDinesh Nadimpalli\u003c/b\u003e on CodePen",
+        "link": "https://codepen.io/DineshNadimpalli/collections/public/",
+        "displayLink": "codepen.io",
+        "snippet": "A passionate and potential web developer with electronics background. Love to \nlearn and code.",
+        "htmlSnippet": "A passionate and potential web developer with electronics background. Love to \u003cbr\u003e\nlearn and code.",
+        "cacheId": "aLGYpwVGPYYJ",
+        "formattedUrl": "https://codepen.io/DineshNadimpalli/collections/public/",
+        "htmlFormattedUrl": "https://codepen.io/\u003cb\u003eDineshNadimpalli\u003c/b\u003e/collections/public/",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbCK9Lkqdl0ZmGk3KzhO0uPvxSNT0efYHYkgvj5TBAe_bbUWtfxQNW",
+              "width": "80",
+              "height": "80"
+            }
+          ],
+          "metatags": [
+            {
+              "og:image": "https://gravatar.com/avatar/9bbcfd7ef53d97f7d9ed9a37ae293c5e?d=https%3A%2F%2Fassets.codepen.io%2Finternal%2Favatars%2Fusers%2Fdefault.png&format=auto&height=512&version=0&width=512",
+              "twitter:card": "summary_large_image",
+              "twitter:title": "Dinesh Nadimpalli on CodePen",
+              "og:site_name": "CodePen",
+              "og:title": "Dinesh Nadimpalli on CodePen",
+              "apple-mobile-web-app-title": "CodePen",
+              "monetization": "$ilp.uphold.com/biyqg2MkQKbe",
+              "csrf-param": "authenticity_token",
+              "og:description": "A passionate and potential web developer with electronics background. Love to learn and code.",
+              "twitter:image": "https://gravatar.com/avatar/9bbcfd7ef53d97f7d9ed9a37ae293c5e?d=https%3A%2F%2Fassets.codepen.io%2Finternal%2Favatars%2Fusers%2Fdefault.png&format=auto&height=512&version=0&width=512",
+              "twitter:site": "@CodePen",
+              "viewport": "width=device-width",
+              "twitter:description": "A passionate and potential web developer with electronics background. Love to learn and code.",
+              "csrf-token": "JGvejYSD35ZKnoKVZ3QHcIASlIbZpmjIK7kjJrCLRLpH80OXixOVPKs6vwuVrP20q7P8m2BX5ErPa/dFDvX4dw==",
+              "og:url": "https://codepen.io/DineshNadimpalli"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://gravatar.com/avatar/9bbcfd7ef53d97f7d9ed9a37ae293c5e?d=https%3A%2F%2Fassets.codepen.io%2Finternal%2Favatars%2Fusers%2Fdefault.png&format=auto&height=512&version=0&width=512"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "User Dinesh Nadimpalli - Ask Ubuntu",
+        "htmlTitle": "User \u003cb\u003eDinesh Nadimpalli\u003c/b\u003e - Ask Ubuntu",
+        "link": "https://askubuntu.com/users/717274/dinesh-nadimpalli",
+        "displayLink": "askubuntu.com",
+        "snippet": "Dinesh Nadimpalli. Developer by profession \u200d , Software enthusiast and foodie by \nnature. Bangalore, Karnataka, India. dineshnadimpalli.",
+        "htmlSnippet": "\u003cb\u003eDinesh Nadimpalli\u003c/b\u003e. Developer by profession \u200d  , Software enthusiast and foodie by \u003cbr\u003e\nnature. Bangalore, Karnataka, India. dineshnadimpalli.",
+        "cacheId": "m22wFkrheE0J",
+        "formattedUrl": "https://askubuntu.com/users/717274/dinesh-nadimpalli",
+        "htmlFormattedUrl": "https://askubuntu.com/users/717274/\u003cb\u003edinesh\u003c/b\u003e-\u003cb\u003enadimpalli\u003c/b\u003e",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSVJfFraz8aPeobr9VjhSybvICY_QAeLHNoMwnjbzNiIQyY5Q7-GyK1sF4",
+              "width": "225",
+              "height": "225"
+            }
+          ],
+          "xfn": [
+            {}
+          ],
+          "metatags": [
+            {
+              "og:image": "https://cdn.sstatic.net/Sites/askubuntu/Img/apple-touch-icon@2.png?v=c492c9229955",
+              "og:type": "website",
+              "twitter:card": "summary",
+              "twitter:title": "User Dinesh Nadimpalli",
+              "og:site_name": "Ask Ubuntu",
+              "twitter:site": "@AskUbuntu",
+              "twitter:domain": "askubuntu.com",
+              "twitter:description": "Q&A for Ubuntu users and developers",
+              "og:url": "https://askubuntu.com/users/717274/dinesh-nadimpalli",
+              "twitter:creator": "@AskUbuntu"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://cdn.sstatic.net/Sites/askubuntu/Img/apple-touch-icon@2.png?v=c492c9229955"
+            }
+          ]
+        }
+      }
+    ]
+  }
+  
