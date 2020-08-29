@@ -2,6 +2,8 @@
 
 A react-based <code>Google Search engine clone</code> application to search through the web using google's <code>Custom Search JSON API</code> and <code>Programmable Search Engine</code> by Google
 
+#### Note: Search results are pre-loaded in <code>src > utils > response.json</code> for development purpose. For real-time results follow the below steps
+
 ## Demo
 
 <img src='./demo.gif'>
